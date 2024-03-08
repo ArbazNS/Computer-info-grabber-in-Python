@@ -71,7 +71,7 @@ def computer_information_and_send_email(file_path, extend, system_information, s
 file_path = "computerinfo\\"
 extend = "computer_info"
 system_information = ".txt"
-sender_email = "computerarbaz@gmail.com"  
-sender_password = "giab ytbb pmue sgjw"    
-recipient_email = "computerarbaz@gmail.com"  
+sender_email = "sender email id"  
+sender_password = "sender password"    
+recipient_email = "recipient email id"  
 computer_information_and_send_email(file_path, extend, system_information, sender_email, sender_password, recipient_email)
